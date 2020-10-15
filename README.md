@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Guilherme</h1>
-<h3 align="center">An eternal apprentice directly from Brazil</h3>
+<h3 align="center">An eternal apprentice.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizcostaa&label=Profile%20views&color=0e75b6&style=flat" alt="luizcostaa" /> </p>
 
