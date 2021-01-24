@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/luixxxcosta" target="blank"><img src="https://img.shields.io/twitter/follow/luixxxcosta?logo=twitter&style=for-the-badge" alt="luixxxcosta" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, NodeJS**
+- 🌱 I’m currently learning **Java, Kotlin, Android Development**
 
 - 💬 Ask me about **Angular, JavaScript, HTML**
 
